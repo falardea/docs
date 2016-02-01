@@ -187,7 +187,4 @@ alias lsa="ls -Bphal"
 alias cd..="cd .."
 alias grep="grep -Hn"
 
-# GitHub personal access token 'DefaultToken'
-#d4a9a311cb85f3aa6e93daff69bd20f8bc9a7220
-#PATH="$PATH"
 
